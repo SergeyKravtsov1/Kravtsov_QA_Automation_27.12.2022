@@ -14,7 +14,7 @@ public class main {
         int volume = l * w * h;
         System.out.println("Volume of the parallelepiped = " + volume);
 
-        int lenght = l + w + h;
+        int lenght = (l + w + h)*2;
         System.out.println(lenght);
 
 
